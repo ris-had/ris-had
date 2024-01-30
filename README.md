@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ris-had
 - 👀 I’m interested in CSS...
-- 🌱 I’m currently learning Mearn
+- 🌱 I’m currently learning MERN
 - ⚡ Fun fact: I Love apples
 
 <!---
